@@ -1,6 +1,6 @@
-# ONe Month Rails
+# One Month Rails
 
-This is the pinteresting smaple application for
+This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
 by [Richard Grundy]
